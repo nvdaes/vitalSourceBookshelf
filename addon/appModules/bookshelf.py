@@ -26,7 +26,7 @@ class EnhancedPane(Window):
 	def event_gainFocus(self):
 		document = getDocument()
 		if document:
-			getDocument().setFocus()
+			document.setFocus()
 
 class AppModule(appModuleHandler.AppModule):
 
