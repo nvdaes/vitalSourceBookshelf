@@ -24,7 +24,7 @@ https://support.vitalsource.com/hc/en-us/articles/201344733-Bookshelf-Download-P
 	# Author(s)
 	"addon_author" : u"Noelia Ruiz Martínez <nrm1977@gmail.com>",
 	# URL for the add-on documentation support
-	"addon_url" : "https://addons.nvda-project.org",
+	"addon_url" : "https://github.com/nvdaes/vitalsourcebookshelf",
 	# Documentation file name
 	"addon_docFileName" : "readme.html",
 }
