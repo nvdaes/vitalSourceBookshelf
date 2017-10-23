@@ -1,7 +1,7 @@
 # VitalSource Bookshelf #
 * Authors: Noelia Ruiz Martínez
-* Download stable version
-* [Download development version][2]
+* Download [stable version][1]
+* Download [development version][2]
 
 This add-on enhances the accessibility of the [VitalSource Bookshelf][3] ePUB reader:
 
