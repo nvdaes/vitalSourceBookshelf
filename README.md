@@ -10,6 +10,8 @@ This add-on enhances the accessibility of the [VitalSource Bookshelf][3] ePUB re
 ## Changes for 1.0
 * Initial version.
 
-[2]: https://github.com/nvdaes/vitalsourcebookshelf/releases/download/1.0-dev/vitalSourceBookshelf-1.0-dev.nvda-addon
+[1]: https://addons.nvda-project.org/files/get.php?file=vsb
+
+[2]: https://addons.nvda-project.org/files/get.php?file=vsb
 
 [3]: https://support.vitalsource.com/hc/en-us/articles/201344733-Bookshelf-Download-Page
