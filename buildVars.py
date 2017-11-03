@@ -20,11 +20,11 @@ addon_info = {
 	"addon_description" : _("""Enhances the accessibility of the VitalSource Bookshelf ePUB reader.
 https://support.vitalsource.com/hc/en-us/articles/201344733-Bookshelf-Download-Page"""),
 	# version
-	"addon_version" : "1.0-dev",
+	"addon_version" : "1.0",
 	# Author(s)
 	"addon_author" : u"Noelia Ruiz Martínez <nrm1977@gmail.com>",
 	# URL for the add-on documentation support
-	"addon_url" : "https://github.com/nvdaes/vitalsourcebookshelf",
+	"addon_url" : "https://addons.nvda-project.org",
 	# Documentation file name
 	"addon_docFileName" : "readme.html",
 }
