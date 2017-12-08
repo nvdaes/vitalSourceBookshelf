@@ -3,8 +3,8 @@
 * [stabile Version herunterladen][1]
 * [Entwicklerversion herunterladen][2]
 
-Diese Erweiterung verbessert die Zugänglichkeit des ePUB-Readers[3]
-von[VitalSource Bookshelf][3]:
+Diese Erweiterung verbessert die Zugänglichkeit des Epub-Readers
+[VitalSource Bookshelf][3]:
 
 * Der Fokus kehrt beim Schließen von Menüs oder Dialogen wieder auf das
   Dokument zurück.
