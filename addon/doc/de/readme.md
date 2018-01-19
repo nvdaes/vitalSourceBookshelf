@@ -19,4 +19,4 @@ Diese Erweiterung verbessert die Zugänglichkeit des Epub-Readers
 [2]: https://addons.nvda-project.org/files/get.php?file=vsb
 
 [3]:
-https://support.vitalsource.com/hc/en-us/articles/201344733-Bookshelf-Download-Page
+[https://support.vitalsource.com/hc/en-us/articles/201344733-Bookshelf-Download-Page](https://support.vitalsource.com/hc/en-us/articles/201344733-Bookshelf-Download-Page)
